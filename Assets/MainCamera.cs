@@ -4,9 +4,9 @@ using System.IO;
 
 public class CameraMover : MonoBehaviour
 {
-    public float moveSpeed = 5.0f;  // Velocidade de movimento da mera
-    public float limitX = 50.0f;    // Limite no eixo X
-    public float limitZ = 50.0f;    // Limite no eixo Z
+    public float moveSpeed = 7.0f;  // Velocidade de movimento da mera
+    public float limitX = 80.0f;    // Limite no eixo X
+    public float limitZ = 80.0f;    // Limite no eixo Z
 
     private bool isMoving = true;
 
