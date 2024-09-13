@@ -63,7 +63,8 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/MainCamera.cs" />
+    <Compile Include="Assets/Scripts/MainCamera.cs" />
+    <Compile Include="Assets/Scripts/SphereSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
